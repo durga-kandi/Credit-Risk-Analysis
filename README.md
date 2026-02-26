@@ -114,9 +114,6 @@ This dashboard supports:
 ### **Default Patterns & Risk Behavior**
 ![Risk & Default Analysis](Risk_Default_Analysis.PNG)
 
----
-
-*(Tip: After uploading images to GitHub, right-click image → Copy image address → Paste above)*
 
 ---
 
