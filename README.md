@@ -120,7 +120,7 @@ This dashboard supports:
 ## 🔗 Power BI Service Report
 
 👉 **Live Interactive Dashboard:**  
-[link](https://app.powerbi.com/groups/me/reports/c447b6d5-0f88-46ea-90d2-671ba96eebec/9372a58693b46e6edca7?experience=power-bi)
+[Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTA2MWE3NmMtYzc1Yy00Yzc0LTliNjEtMmJiZTRmODg0N2Q4IiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
 ---
 
